@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-The famous hello world from local
-=======
 The famous hello world, i have changed some things
->>>>>>> 566bd7d39bfea755beb93e6232ea6d444fbdcbaa
