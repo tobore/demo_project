@@ -1,1 +1,8 @@
 The famous hello world, i have changed some things
+
+echo # payport >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:tobore/payport.git
+git push -u origin master
