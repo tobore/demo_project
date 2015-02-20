@@ -20,3 +20,15 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:tobore/payport.git
 git push -u origin master
+
+ <socialsidebar translate="title" module="ves_socialsidebar">
+                        <title>Ves Social Sidebar</title>
+                        <children>
+                             
+                            <configuration translate="title" module="ves_socialsidebar">
+                                <title>Configuration</title>
+                                <sort_order>2</sort_order>
+                                <action>adminhtml/system_config/edit/section/ves_socialsidebar</action>
+                            </configuration>
+                        </children>
+                    </socialsidebar>
